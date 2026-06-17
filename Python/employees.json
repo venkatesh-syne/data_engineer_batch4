@@ -1,0 +1,50 @@
+[
+    {
+        "emp_id": 1,
+        "emp_name": "John",
+        "salary": "50000.00",
+        "dept_id": 10
+    },
+    {
+        "emp_id": 2,
+        "emp_name": "Mary",
+        "salary": "80000.00",
+        "dept_id": 10
+    },
+    {
+        "emp_id": 3,
+        "emp_name": "David",
+        "salary": "70000.00",
+        "dept_id": 20
+    },
+    {
+        "emp_id": 4,
+        "emp_name": "Sara",
+        "salary": "80000.00",
+        "dept_id": 20
+    },
+    {
+        "emp_id": 5,
+        "emp_name": "Tom",
+        "salary": "60000.00",
+        "dept_id": 30
+    },
+    {
+        "emp_id": 6,
+        "emp_name": "Alice",
+        "salary": "60000.00",
+        "dept_id": 30
+    },
+    {
+        "emp_id": 7,
+        "emp_name": "John",
+        "salary": "50000.00",
+        "dept_id": 10
+    },
+    {
+        "emp_id": 8,
+        "emp_name": "Mary",
+        "salary": "80000.00",
+        "dept_id": 10
+    }
+]
